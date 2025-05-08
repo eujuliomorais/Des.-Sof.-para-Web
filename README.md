@@ -1,1 +1,3 @@
-# Des.-Sof.-para-Web
+### Repositório dedicado à disciplina de Desenvolvimento de Software para Web
+
+#### Em construção...
